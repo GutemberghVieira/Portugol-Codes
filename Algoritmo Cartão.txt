@@ -1,0 +1,47 @@
+Software "Sacar dinheiro ou depositar na conta"
+
+1.Condicional Peça para o usuário escolher entre uma opção
+
+1.1 Se ele escolher opção sacar siga os passos restante para sacar 
+
+1.2 Passo
+Peça para o usuário digitar o valor que ele quer sacar 
+
+1.3 Passo
+Guarde o valor 
+
+1.4 Passo 
+peça para ele digitar o número do cartão
+
+1.5 Passo 
+Guarde o número do cartão 
+
+1.6 Passo 
+Mostre os informações do cartão e o dados do usuário
+
+1.7 pergunte se os dados na tela correspondem aos dados do usuário 
+
+1.8 Se corresponder mostre a mensagem você depositou seu dinheiro na conta com sucesso
+
+1.9 Se não mostre a mensagem o programa será encerrado, chame o gerente para te auxiliar 
+
+2.Passo 
+Se ele escolher a opção depositar siga os passos restante para depositar 
+
+2.1 Passo 
+Digite o número do cartão
+
+2.2 Passo 
+Armazene o número do cartão 
+
+2.3 Passo 
+Peça ao usuário digitar qual é o valor que ele deseja depositar 
+
+2.4 Passo 
+Guarde o valor 
+
+2.5 Verifique se os dados correspondem ao do usuário 
+
+2.6 os dados estiverem corretos mostre a mensagem seu dinheiro foi depositado com sucesso 
+
+2.7 Se não mostre uma mensagem de erro os dados não correspondem, chame o gerente para te auxiliar e encerre o programa
