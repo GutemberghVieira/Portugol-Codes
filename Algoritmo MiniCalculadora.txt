@@ -1,0 +1,33 @@
+Software "mini Calculadora de números"
+
+1.Passo
+Peça para o usuário digitar o primeiro número 
+
+2.Passo 
+Guarde o primeiro número 
+
+3.Passo 
+Peça para o usuário digitar o segundo número 
+
+4.Passo 
+Guarde o Segundo número
+
+5.Passo 
+Peça para o usuário digitar o operador matemático existem 4 operadores matemáticos más o usuário só poderá escolher um
+
+6.Verifique se é um operador matemático
+
+6.1 Se for passe para o próximo passo 
+
+6.2 Se não for avise o usuário com uma mensagem
+
+7.Verifique o divisor, se o operador matemático for divisão
+
+7.1 Se for, o divisor terá que ser maior do que 0 e seguirá para o próximo passo
+
+7.2 Se não for maior do que 0 avise o usuário
+
+8.Passo 
+Realize o processo de conta 
+
+9.Mostre o resultado na tela 
