@@ -1,0 +1,76 @@
+1.Passo 
+Peça para o usuário digitar o número do mês
+
+2.Passo 
+Guarde o número do mês
+
+3.Verifique se o usuário digitou um número de 1 a 12
+
+3.1 se ele digitou 1 é Janeiro
+
+3.2 se ele digitou 2 é Fevereiro 
+
+3.3 se ele digitou 3 é Março 
+
+3.4 se ele digitou 4 é Abril
+
+3.5 se ele digitou 5 é Maio
+
+3.6 se ele digitou 6 é Junho 
+
+3.7 se ele digitou 7 é Julho
+
+3.8 se ele digitou 8 é Agosto 
+
+3.9 se ele digitou 9 é Setembro
+
+3.10 se ele digitou 10 é Outubro 
+
+3.11 se ele digitou 11 é Novembro 
+
+3.12 se ele digitou 12 é Dezembro
+
+4.Antes de continuar Pergunte para o usuário se ele quer saber como funciona Esse Programa
+
+4.1 Se Sim Mostrar pra ele como funciona a estrutura do programa 
+
+4.2 Se Não  insista para ele saber como funciona o programa 
+
+4.3 Se mesmo assim ele não quiser o programa deve continuar
+
+5.Passo 
+Peça para o usuário digitar um número do dia do aniversário 
+
+6.Passo 
+Guarde o número do dia que o usuário digitou 
+
+7.Verifique o mínimo e o máximo de dias desse mês que ele escolheu
+
+7.1 se for janeiro ele pode escolher do dia 1 a 31
+
+7.2 se for fevereiro ele pode escolher do dia 1 a 28 (ou 29 se for ano Bissexto)
+
+7.3 se for Março ele pode escolher do dia 1 a 31
+
+7.4 se for Abril ele pode escolher do dia 1 a 30
+
+7.5 se for Maio ele pode escolher do dia 1 a 31
+
+7.6 se for Junho ele pode escolher do dia 1 a 30
+
+7.7 se for Julho ele pode escolher do dia 1 a 31  
+
+7.8 se for Agosto ele pode escolher do dia 1 a 31
+
+7.9 se for Setembro ele pode escolher do dia 1 a 30
+
+7.10 se for Outubro ele pode escolher do dia 1 a 31
+
+7.11 se for Novembro ele pode escolher do dia 1 a 30
+
+7.12 se for Dezembro ele pode escolher do dia 1 a 31
+
+8.Passo 
+Através  do número que corresponde ao mês do aniversário que o 
+usuário digitou  e o número do dia desse mesmo mês retorne para
+ele uma frase da sorte
