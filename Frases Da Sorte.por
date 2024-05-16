@@ -1338,7 +1338,7 @@ escreva("***********************************************************************
 senao se(EscolhaDiaMes == 16)
 {
 escreva("***************************************************************************************************\n")
-escreva("Você nascue no dia 16 de Julho \nFrase da Sorte : Não escolha o caminho da Vingança se fizer isso será muito difícil voltar\n")
+escreva("Você nasceu no dia 16 de Julho \nFrase da Sorte : Não escolha o caminho da Vingança se fizer isso será muito difícil voltar\n")
 escreva("***************************************************************************************************\n")
 }
 senao se(EscolhaDiaMes == 17)
@@ -2376,7 +2376,7 @@ escreva("***********************************************************************
 senao se(EscolhaDiaMes == 25)
 {
 escreva("***************************************************************************************************\n")
-escreva("Você nasceu no dia 25 de Dezembro \nFrase da Sorte : Você nasceu no dia do natal comemore bastante\n essa data especial pro ano e para você\n")
+escreva("Você nasceu no dia 25 de Dezembro \nFrase da Sorte : Você nasceu no dia do natal comemore bastante\nessa data especial do ano para você\n")
 escreva("***************************************************************************************************\n")		
 }
 senao se(EscolhaDiaMes == 26)
@@ -2423,7 +2423,7 @@ pare
 
 caso contrario:
 escreva("número de mês invalído só pode 1 a 12")
-pare
+pare 
 }
 
 }
@@ -2434,7 +2434,7 @@ pare
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 84350; 
+ * @POSICAO-CURSOR = 143658; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

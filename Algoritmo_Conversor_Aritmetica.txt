@@ -1,0 +1,55 @@
+Software "Conversor de celsius para fahrenheit e  Quilômetros para Milhas"
+
+1.Passo 
+Peça para o usuário escolher uma opção entre 1 e 3
+
+2.Passo
+Guarde o valor escolhido pelo usuário
+
+3.Verifique qual escolheu 
+
+3.1 Caso seja 1 ele vai converter celsius para fahrenheit 
+
+3.1 
+1.Passo
+Peça para o usuário digitar o valor em celsius para ser convertido 
+
+3.1
+2.Passo 
+Guarde o valor 
+
+3.1
+3.Passo 
+Faça o calculo para converter celsius para fahrenheit 
+
+3.1
+4.Passo 
+Mostre o resultado na tela
+
+3.1
+5.Passo 
+Volte para o começo
+
+3.2 Caso seja 2 ele vai converter Quilômetros para Milhas
+
+3.2
+1.Passo 
+Digite o valor em Quilômetros 
+
+3.2
+2.Passo 
+Guarde o valor em Quilômetros 
+
+3.2
+3.Passo 
+Faça o calculo para converter Quilômetros para Milhas 
+
+3.2
+4.Passo 
+Mostre o resultado na tela
+
+3.2
+5.Passo 
+Volte para o começo 
+
+3.3 Caso seja 3 ele vai sair do programa 
